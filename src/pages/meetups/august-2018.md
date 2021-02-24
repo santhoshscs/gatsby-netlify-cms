@@ -19,10 +19,7 @@ presenters:
       Ben will tell us all about the power of functional programming,
       specifically memoization and how it can help speed up frequently used side
       effect-less functions.
-  - image: /img/santhosh.jpg
-    name: 'Santhosh Kumar V S '
-    presentationTitle: Awsoe Presentation
-    text: This is a sample TO check content editing via NetlifyCMS
+  - {}
 location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/LLgicn3zGuy'
